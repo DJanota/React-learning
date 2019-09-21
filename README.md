@@ -1,4 +1,4 @@
-# React-learning
+# React.js-learning / React.js-nauka
 (ENG)
 Learning programming in React.js - Udemy course "Samuraj Programowania".
 (PL)
