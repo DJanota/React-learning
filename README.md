@@ -1,5 +1,5 @@
 # React-learning
-ENG
+(ENG)
 Learning programming in React.js - Udemy course "Samuraj Programowania"
-PL
+(PL)
 Nauka programowania w React.js - kurs Udemy „Samuraj Programowania”
